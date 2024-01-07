@@ -5,7 +5,7 @@ This Machine Learning contains a comprehensive solution for predicting temperatu
 [View](https://www.kaggle.com/datasets/emmanuelfwerr/london-weather-data)
 
 ## Information
-[View](https://github.com/achmadhadikurnia/belajar-pengembangan-machine-learning-dicoding-certificate)
+[View](https://github.com/achmadhadikurnia/belajar-pengembangan-machine-learning-dicoding-expertise-certificate)
 
 ## Program
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/london-temp-ml-timeseries-dicoding-submission/blob/main/ml_time_series.ipynb
